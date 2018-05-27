@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Before Suite -->
+<suite parallel="false" name="Suite">
+<!-- Before Test -->
+  <test name="Test">
+  <!-- Before Class -->
+    <classes>
+      <class name="TestNG.TestNGdemo"/>
+      <!-- Before Method -->
+      <!-- @test -->
+      <!-- After Method -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<parameter name="un" value="admin"></parameter>
+<parameter name="pwd" value="admin"></parameter>
+  
+  <test name="Test1">
+    <classes>
+      <class name="TestNG.XML_ParameterDemo"/>
+    </classes>
+  </test> <!-- Test1 -->
+  
+   <test name="Test2">
+    <classes>
+      <class name="TestNG.ExcelDemo"/>
+    </classes>
+  </test> <!-- Test2 -->
+  
+   <test name="Test3">
+    <classes>
+      <class name="TestNG.ExcelRW"/>
+    </classes>
+  </test> <!-- Test3 -->
+  
+  
+</suite> <!-- Suite -->
